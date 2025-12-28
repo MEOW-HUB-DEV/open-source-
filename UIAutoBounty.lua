@@ -14,7 +14,7 @@ end
 
 -- ScreenGui
 local gui = Instance.new("ScreenGui")
-gui.Name = "MeowHubUI"
+gui.Name = "backpackUI"
 gui.ResetOnSpawn = false
 gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 gui.Parent = player.PlayerGui
